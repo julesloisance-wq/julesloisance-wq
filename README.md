@@ -1,6 +1,6 @@
 # Jules Loisance
 
-I study engineering at IMT Atlantique and computer science at Georgia Tech. I’m looking for a 4–6 month internship in applied AI or computer vision, starting in January or early February 2027.
+I study engineering at IMT Atlantique and computer science at Georgia Tech. I’m looking for a 4–6 month internship in applied AI or computer vision, starting in January or February 2027.
 
 ### Finding the same microscopic track on two instruments
 
